@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=myid3.jar -DgroupId=org.cmc.music -DartifactId=MyID3 -Dversion=0.83 -Dpackaging=jar
